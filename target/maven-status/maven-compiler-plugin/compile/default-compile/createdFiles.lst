@@ -1,0 +1,12 @@
+org/kizilay/yusuf/BeanValidationApp/qualifiers/TURKEY.class
+org/kizilay/yusuf/BeanValidationApp/service/ZipCodeChecker.class
+org/kizilay/yusuf/BeanValidationApp/qualifiers/USA.class
+org/kizilay/yusuf/BeanValidationApp/validators/ZipCodeValidator.class
+org/kizilay/yusuf/BeanValidationApp/service/impl/ZipCodeCheckerImplForTurkey.class
+org/kizilay/yusuf/BeanValidationApp/constraints/EmailConstraint.class
+org/kizilay/yusuf/BeanValidationApp/model/Address.class
+org/kizilay/yusuf/BeanValidationApp/constraints/ZipCodeConstraint.class
+org/kizilay/yusuf/BeanValidationApp/constraints/ZipCodeConstraint$List.class
+org/kizilay/yusuf/BeanValidationApp/service/impl/ZipCodeCheckerImplForUsa.class
+org/kizilay/yusuf/BeanValidationApp/model/Customer.class
+org/kizilay/yusuf/BeanValidationApp/constraints/EmailConstraint$List.class

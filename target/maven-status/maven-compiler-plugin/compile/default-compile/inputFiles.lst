@@ -1,0 +1,10 @@
+/home/yusuf/Workspace/BeanValidationApp/src/main/java/org/kizilay/yusuf/BeanValidationApp/constraints/ZipCodeConstraint.java
+/home/yusuf/Workspace/BeanValidationApp/src/main/java/org/kizilay/yusuf/BeanValidationApp/model/Customer.java
+/home/yusuf/Workspace/BeanValidationApp/src/main/java/org/kizilay/yusuf/BeanValidationApp/service/ZipCodeChecker.java
+/home/yusuf/Workspace/BeanValidationApp/src/main/java/org/kizilay/yusuf/BeanValidationApp/service/impl/ZipCodeCheckerImplForUsa.java
+/home/yusuf/Workspace/BeanValidationApp/src/main/java/org/kizilay/yusuf/BeanValidationApp/qualifiers/USA.java
+/home/yusuf/Workspace/BeanValidationApp/src/main/java/org/kizilay/yusuf/BeanValidationApp/model/Address.java
+/home/yusuf/Workspace/BeanValidationApp/src/main/java/org/kizilay/yusuf/BeanValidationApp/constraints/EmailConstraint.java
+/home/yusuf/Workspace/BeanValidationApp/src/main/java/org/kizilay/yusuf/BeanValidationApp/service/impl/ZipCodeCheckerImplForTurkey.java
+/home/yusuf/Workspace/BeanValidationApp/src/main/java/org/kizilay/yusuf/BeanValidationApp/qualifiers/TURKEY.java
+/home/yusuf/Workspace/BeanValidationApp/src/main/java/org/kizilay/yusuf/BeanValidationApp/validators/ZipCodeValidator.java
